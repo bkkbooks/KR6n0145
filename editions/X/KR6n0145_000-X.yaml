@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6n0145/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 相宗八要直解
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X55/X55n0901.xml
+    old_id: X55n0901
+hash: sha256:e1c2462ba561f06a04b288c506bf99b278d04676731eec5ebdf333bbf85afe4b

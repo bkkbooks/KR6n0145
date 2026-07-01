@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6n0145/X/v1
+canonical_location: https://kanripo.org/bkk/KR6n0145/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 相宗八要直解
+  identifiers:
+    krp: KR6n0145
+    cbeta: X55n0901
+    cbeta_old_id: X55n0901
+    authorityid: CA0003565
+    json_key: X0901
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X55/X55n0901.xml
+    old_id: X55n0901
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0145_000-X.yaml, hash: 'sha256:e1c2462ba561f06a04b288c506bf99b278d04676731eec5ebdf333bbf85afe4b'}
+  - {seq: 1, filename: KR6n0145_001-X.yaml, hash: 'sha256:e139266c218ccb0776e9950be245a0f89997583f03eda1971d0ab95ccefbc08c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6n0145_000-X.markers.yaml, hash: 'sha256:2c2dcde2381a284369f6234205158af92be131b7633bc38e33407bc429e1bdee'}
+  - {seq: 1, role: markers, filename: assets/KR6n0145_001-X.markers.yaml, hash: 'sha256:6ddf0fc892e4f1269ed410057e619159bd6e8a319a3c9f953bf545f9cdda0f0f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6n0145_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 1292
+  label: 六離合釋法式略解
+  type: juan
+  level: 1
+hash: sha256:b3dda1d849989a98d9b43edb7b88610fb3ed51844e87f901c81feac49f4312c2

@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6n0145/v1
 canonical_location: https://kanripo.org/bkk/KR6n0145/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 相宗八要直解
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6n0145_000.yaml, hash: 'sha256:e1c2462ba561f06a04b288c506bf99b278d04676731eec5ebdf333bbf85afe4b'}
-  - {seq: 1, filename: KR6n0145_001.yaml, hash: 'sha256:e139266c218ccb0776e9950be245a0f89997583f03eda1971d0ab95ccefbc08c'}
+  - {seq: 1, filename: KR6n0145_001.yaml, hash: 'sha256:959ddfedc47b1188bbd343a0f8863aa3275ba2405e3a9465b1287966a66e8cf3'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6n0145_000.markers.yaml, hash: 'sha256:75312f6ae49f0a2b49fdefeb182b82e2d57c1d77cfd84b05ffe233ff57e3e799'}
-  - {seq: 1, role: markers, filename: assets/KR6n0145_001.markers.yaml, hash: 'sha256:af0442889006bded1aaec835e9ca77fb06f5237dadf15d4e3a6bf5d77fb31aef'}
+  - {seq: 1, role: markers, filename: assets/KR6n0145_001.markers.yaml, hash: 'sha256:c50ac8215bcd5787c384e991959015b7c454802573c7894abdb6b42a6ba0876b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 六離合釋法式略解
   type: juan
   level: 1
-hash: sha256:a1923f87b6dcd40b48997effea9395ff528034ad6d739dd0b5dd0a0fa4eebbf8
+hash: sha256:05e33127b94771b859a334c44dbb2afef58da68198233c86e42132d63c7a05d9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
